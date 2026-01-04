@@ -67,3 +67,42 @@ Run:
 
 Outputs:
 - `di_decisions_scenarios` (`BASELINE` vs `STRICT_V1`)
+
+---
+
+## Screenshots
+*(Representative governance and oversight views)*
+
+- **Executive Oversight**  
+  High-level KPIs showing decision volumes, escalation rates, and average risk scores.
+
+- **Rule Traceability**  
+  Visualisation of which rules trigger most frequently and contribute the most risk.
+
+- **Governance & Exceptions**  
+  Monitoring vulnerable cases, data quality flags, and manual review queues.
+
+- **Scenario Impact (Policy Stress Test)**  
+  Comparison of outcomes under BASELINE vs STRICT_V1 governance thresholds.
+
+> Screenshots are intentionally focused on decision governance and explainability rather than visual polish.
+
+---
+
+## Why this project matters
+As organisations automate high-impact decisions, the primary challenge is no longer prediction accuracy but **decision governance**.
+
+This project demonstrates how automated decisions can be:
+- **Explainable** — every outcome is traceable to specific rules
+- **Auditable** — full evidence captured per decision
+- **Controllable** — policies can be stress-tested before rollout
+- **Transparent** — executive oversight is built in, not added later
+
+The architecture reflects how real-world, regulated systems prioritise accountability and risk management over black-box optimisation.
+
+---
+
+## Author
+**Rajath Sagar Gowda**  
+Customer Insight Analyst | Decision & Data Systems  
+United Kingdom
