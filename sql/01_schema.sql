@@ -1,0 +1,2 @@
+-- Schema creation script
+-- Tables: cases, rules, decisions, audit
